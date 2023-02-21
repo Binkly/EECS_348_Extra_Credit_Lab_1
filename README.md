@@ -1,0 +1,2 @@
+# EECS_348_Extra_Credit_Lab_1
+### I know that I did not write the program correctly. Rather than iterating through the preferences of the departments and only consulting the programmer preferences if there was a conflict between the department preferences, it goes by department preference first then swaps the programmers around based on their preferences. I couldn't figure out how to fix it and I need sleep, so hopefully this is worth a few points at least.
